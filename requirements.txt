@@ -1,0 +1,6 @@
+voila
+bqplot
+qgrid
+numpy
+jupyter_bokeh
+panel

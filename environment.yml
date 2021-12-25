@@ -1,0 +1,12 @@
+name: voila-panel-football-pitch
+channels:
+  - conda-forge
+  - bokeh
+  - pyviz
+dependencies:
+  - bqplot=0.11.2
+  - ipykernel
+  - qgrid
+  - jupyter_bokeh
+  - panel
+  - voila

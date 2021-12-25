@@ -9,7 +9,7 @@ The deployed notebook can be found here: [Notebook on Heroku](https://voila-foot
 
 ## Voila in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/voila-interactive-football-pitch/master?urlpath=voila%2Frender%2FInteractive-Football-Pitch.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/seidlr/voila-panel-interactive-football-pitch/master?urlpath=voila%2Frender%2FInteractive-Football-Pitch.ipynb)
 
 ## Notebook in Binder
 
